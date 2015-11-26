@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">OCar Android App</string>
+    <string name="app_displayed_name">OCar</string>
+    <string name="title_activity_splash_screen">OCar</string>
+    <string name="splash_screen_heading">Bienvenue sur OCar</string>
+
+    <string name="title_activity_oauth">OAuth</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>
